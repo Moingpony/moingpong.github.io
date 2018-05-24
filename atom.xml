@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo of Shary</title>
+  <title>Shary&#39;s Blog</title>
   
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="/blog/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2018-05-24T07:07:22.059Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://moingpony.github.io/Shary-blog/"/>
+  <updated>2018-05-24T07:44:14.138Z</updated>
+  <id>http://moingpony.github.io/Shary-blog/</id>
   
   <author>
     <name>Shary Lee</name>
@@ -18,12 +18,12 @@
   
   <entry>
     <title>My test post</title>
-    <link href="http://yoursite.com/2018/05/24/My-test-post/"/>
-    <id>http://yoursite.com/2018/05/24/My-test-post/</id>
+    <link href="http://moingpony.github.io/Shary-blog/2018/05/24/My-test-post/"/>
+    <id>http://moingpony.github.io/Shary-blog/2018/05/24/My-test-post/</id>
     <published>2018-05-24T06:55:47.000Z</published>
-    <updated>2018-05-24T07:07:22.059Z</updated>
+    <updated>2018-05-24T07:44:14.138Z</updated>
     
-    <content type="html"><![CDATA[<a id="more"></a><h2 id="博客篇"><a href="#博客篇" class="headerlink" title="博客篇"></a>博客篇</h2><p>开篇讲讲这个博客这一年的「成绩」：</p><h4 id="访问量"><a href="#访问量" class="headerlink" title="访问量"></a>访问量</h4><p>因为今年年中进行过博客迁移，从 github pages 迁到了阿里云，还换了整个 blog platform. 所以新旧博客的统计要结合起来看。</p><p>旧博客统计：</p><p><img src="/images/old_blog.png" alt="旧博客统计"></p><p>新博客统计：</p><p><img src="/images/new_blog.png" alt="新博客统计"></p><p>总计： PV <strong>49,406</strong>，UV <strong>15,800</strong></p><h4 id="访问设备"><a href="#访问设备" class="headerlink" title="访问设备"></a>访问设备</h4><p><img src="/images/newblog_devices.png" alt="访问设备"></p><p>iPhone 用户仍然排第一，第二是小米。</p><h4 id="来源浏览器"><a href="#来源浏览器" class="headerlink" title="来源浏览器"></a>来源浏览器</h4><p><img src="/images/newblog_browser.png" alt=""></p><h4 id="文章排行"><a href="#文章排行" class="headerlink" title="文章排行"></a>文章排行</h4><p><img src="/images/oldblog_post_trend.png" alt="旧博客排行"></p><p>上半年一个 Vue 和 Webpack 系列访问量比较大。下半年给自己的博客定位不是单纯的技术博客，访问量比较大的是关于退学的两篇文章。</p><p><img src="/images/newblog_post_trend.png" alt="新博客排行"></p><p>坚持做独立博客很难，坚持写博客更难。我没有开公众号，因为开公众号会让我感到有压力，更会让我「为了推送而写文章」。也是因为赞同<a href="http://coolshell.cn/articles/17391.html" target="_blank" rel="noopener">陈皓的观点</a>。</p><h2 id="技术篇"><a href="#技术篇" class="headerlink" title="技术篇"></a>技术篇</h2><p>今年因为工作原因，把大部分的精力花在了 React 上，Vue 反倒没什么机会写了。写 React 的过程中对 Thinking in React 有了不同的看法。我从前不喜欢 JSX, 不喜欢 <code>setState</code>, 但是慢慢地开始思考 Functional Programming, Reactive Programming. 后来发现，React 是不是 React 已经不重要了，因为 React 只是实现它思想的手段，更重要的是在其背后的，UI Development 的观念 —— <code>(state) =&gt; View</code>。无论如何争论 Functional Programming，它的的确确改变了我对程序开发的想法，我开始追求 Pure Function，开始讲究函数的 side-effect. 我想下一年我还会对 FRP 做更深入的研究。关于这方面的感悟，我会单独写成文章。</p><p>比较快乐的是在一些项目里使用了 TypeScript. 自己也写了<a href="http://lutaonan.com/is-static-type-in-javascript-a-burden/" target="_blank" rel="noopener">文章</a>，录了<a href="http://www.bilibili.com/video/av6511223/" target="_blank" rel="noopener">视频</a>, 来表达我对这个语言的看法。</p><p>这一年参加了两个 Talk, 一个是珠三角技术沙龙，讲的是 Vue 和 Native. 另一个是 Node 地下铁，讲了 TypeScript. 关于技术分享，我在知乎有<a href="https://www.zhihu.com/question/52777303/answer/136427221" target="_blank" rel="noopener">一篇回答</a> 讲了我对国内技术分享会议的看法。希望我自己在接下来的一年能有更大的长进，然后用自己的行动去告诉大家技术分享应该怎么做。</p><p>比较遗憾的是工作之后减少了写开源项目的时间，今年对开源社区最大的贡献就只有给一本<a href="https://github.com/basarat/typescript-book" target="_blank" rel="noopener">TypeScript 书</a> 贡献了些内容。</p><h2 id="工作篇"><a href="#工作篇" class="headerlink" title="工作篇"></a>工作篇</h2><p><img src="/images/gitlab.png" alt="Gitlab Summary"></p><p>从 3 月份入职，完成了一个项目的重构，帮助了一些还有些迷茫的朋友，用自己的热情感染了团队的技术氛围，是在这一年工作上让我自己感到满足的事情。</p><h2 id="读书篇"><a href="#读书篇" class="headerlink" title="读书篇"></a>读书篇</h2><p><a href="https://book.douban.com/subject/25930025/" target="_blank" rel="noopener"><strong>Just for Fun: The Story of an Accidental Revolutionary</strong></a></p><p>Linux 创始人 Linus 的自传，记录了 Linus 的少年时期和 Linux 的诞生，之中还夹杂一些对开放源代码的观念。读完以后很受鼓舞，能像 Linus 一样是我做软件开发的终极目标。</p><p><a href="https://book.douban.com/subject/26835090/" target="_blank" rel="noopener"><strong>Soft Skills: The software developer’s life manual</strong></a></p><p>中文名叫《软技能：代码之外的生存指南》。我很不喜欢这类教别人做人的书，但是受人推荐，还是读完了。</p><p>书里有几个章节我印象比较深刻。比如谈到大公司、中等规模公司、创业公司之前的区别：</p><blockquote><p>在大公司工作令人沮丧，因为他们感到他们个人的贡献无足轻重</p></blockquote><blockquote><p>为大公司工作的一个显而易见的事情就是成长机会</p></blockquote>]]></content>
+    <content type="html"><![CDATA[<a id="more"></a><h2 id="博客篇"><a href="#博客篇" class="headerlink" title="博客篇"></a>博客篇</h2><p>开篇讲讲这个博客这一年的「成绩」：</p><h4 id="访问量"><a href="#访问量" class="headerlink" title="访问量"></a>访问量</h4><p>因为今年年中进行过博客迁移，从 github pages 迁到了阿里云，还换了整个 blog platform. 所以新旧博客的统计要结合起来看。</p><p>旧博客统计：</p><p><img src="/images/old_blog.png" alt="旧博客统计"></p><p>新博客统计：</p><p><img src="/images/new_blog.png" alt="新博客统计"></p><p>总计： PV <strong>49,406</strong>，UV <strong>15,800</strong></p><h4 id="访问设备"><a href="#访问设备" class="headerlink" title="访问设备"></a>访问设备</h4><p><img src="/images/newblog_devices.png" alt="访问设备"></p><p>iPhone 用户仍然排第一，第二是小米。</p><h4 id="来源浏览器"><a href="#来源浏览器" class="headerlink" title="来源浏览器"></a>来源浏览器</h4><p><img src="/images/newblog_browser.png" alt=""></p><h4 id="文章排行"><a href="#文章排行" class="headerlink" title="文章排行"></a>文章排行</h4><p><img src="/images/oldblog_post_trend.png" alt="旧博客排行"></p><p>上半年一个 Vue 和 Webpack 系列访问量比较大。下半年给自己的博客定位不是单纯的技术博客，访问量比较大的是关于退学的两篇文章。</p><p><img src="/images/newblog_post_trend.png" alt="新博客排行"></p><p>坚持做独立博客很难，坚持写博客更难。我没有开公众号，因为开公众号会让我感到有压力，更会让我「为了推送而写文章」。也是因为赞同<a href="http://coolshell.cn/articles/17391.html" target="_blank" rel="noopener">陈皓的观点</a>。</p><h2 id="技术篇"><a href="#技术篇" class="headerlink" title="技术篇"></a>技术篇</h2><h2 id="工作篇"><a href="#工作篇" class="headerlink" title="工作篇"></a>工作篇</h2><p><img src="/images/gitlab.png" alt="Gitlab Summary"></p><h2 id="读书篇"><a href="#读书篇" class="headerlink" title="读书篇"></a>读书篇</h2><p><a href="https://book.douban.com/subject/25930025/" target="_blank" rel="noopener"><strong>Just for Fun: The Story of an Accidental Revolutionary</strong></a></p><p>Linux 创始人 Linus 的自传，记录了 Linus 的少年时期和 Linux 的诞生，之中还夹杂一些对开放源代码的观念。读完以后很受鼓舞，能像 Linus 一样是我做软件开发的终极目标。</p><p><a href="https://book.douban.com/subject/26835090/" target="_blank" rel="noopener"><strong>Soft Skills: The software developer’s life manual</strong></a></p><p>中文名叫《软技能：代码之外的生存指南》。我很不喜欢这类教别人做人的书，但是受人推荐，还是读完了。</p><p>书里有几个章节我印象比较深刻。比如谈到大公司、中等规模公司、创业公司之前的区别：</p><blockquote><p>在大公司工作令人沮丧，因为他们感到他们个人的贡献无足轻重</p></blockquote><blockquote><p>为大公司工作的一个显而易见的事情就是成长机会</p></blockquote>]]></content>
     
     <summary type="html">
     
@@ -38,14 +38,14 @@
     </summary>
     
     
-      <category term="test 2018" scheme="http://yoursite.com/tags/test-2018/"/>
+      <category term="test 2018" scheme="http://moingpony.github.io/Shary-blog/tags/test-2018/"/>
     
   </entry>
   
   <entry>
     <title>My New Post</title>
-    <link href="http://yoursite.com/2018/05/24/My-New-Post/"/>
-    <id>http://yoursite.com/2018/05/24/My-New-Post/</id>
+    <link href="http://moingpony.github.io/Shary-blog/2018/05/24/My-New-Post/"/>
+    <id>http://moingpony.github.io/Shary-blog/2018/05/24/My-New-Post/</id>
     <published>2018-05-24T06:13:43.000Z</published>
     <updated>2018-05-24T06:41:03.512Z</updated>
     
