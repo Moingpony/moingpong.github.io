@@ -4,8 +4,8 @@
     
     <entry>
       <title>久违了,Django</title>
-      <link href="/Shary-blog/2018/07/21/%E4%B9%85%E8%BF%9D%E4%BA%86-Django/"/>
-      <url>/Shary-blog/2018/07/21/%E4%B9%85%E8%BF%9D%E4%BA%86-Django/</url>
+      <link href="/2018/07/21/%E4%B9%85%E8%BF%9D%E4%BA%86-Django/"/>
+      <url>/2018/07/21/%E4%B9%85%E8%BF%9D%E4%BA%86-Django/</url>
       <content type="html"><![CDATA[<p>##时隔几个月,忙完了一些琐事,重新拿起了Django.</p><p>##设置环境还真的是复杂,各种错误,版本错误,数据库错误,好歹是解决了这些坑.</p><p>##久违了 Django!</p>]]></content>
       
       
@@ -13,8 +13,8 @@
     
     <entry>
       <title>Hexo+Next主题下 添加访问数，访问量</title>
-      <link href="/Shary-blog/2018/05/24/%E5%AE%8C%E5%96%84%E7%95%8C%E9%9D%A2-%E6%B7%BB%E5%8A%A0%E8%AE%BF%E9%97%AE%E6%95%B0%EF%BC%8C%E8%AE%BF%E9%97%AE%E9%87%8F/"/>
-      <url>/Shary-blog/2018/05/24/%E5%AE%8C%E5%96%84%E7%95%8C%E9%9D%A2-%E6%B7%BB%E5%8A%A0%E8%AE%BF%E9%97%AE%E6%95%B0%EF%BC%8C%E8%AE%BF%E9%97%AE%E9%87%8F/</url>
+      <link href="/2018/05/24/%E5%AE%8C%E5%96%84%E7%95%8C%E9%9D%A2-%E6%B7%BB%E5%8A%A0%E8%AE%BF%E9%97%AE%E6%95%B0%EF%BC%8C%E8%AE%BF%E9%97%AE%E9%87%8F/"/>
+      <url>/2018/05/24/%E5%AE%8C%E5%96%84%E7%95%8C%E9%9D%A2-%E6%B7%BB%E5%8A%A0%E8%AE%BF%E9%97%AE%E6%95%B0%EF%BC%8C%E8%AE%BF%E9%97%AE%E9%87%8F/</url>
       <content type="html"><![CDATA[<p>##操作：</p><p>##本文主要介绍busuanzi方法</p><p>打开文件：<br>themes/next/_config.yml</p><h1 id="Show-PV-UV-of-the-website-page-with-busuanzi"><a href="#Show-PV-UV-of-the-website-page-with-busuanzi" class="headerlink" title="Show PV/UV of the website/page with busuanzi."></a>Show PV/UV of the website/page with busuanzi.</h1><h1 id="Get-more-information-on-http-ibruce-info-2015-04-04-busuanzi"><a href="#Get-more-information-on-http-ibruce-info-2015-04-04-busuanzi" class="headerlink" title="Get more information on http://ibruce.info/2015/04/04/busuanzi/"></a>Get more information on <a href="http://ibruce.info/2015/04/04/busuanzi/" target="_blank" rel="noopener">http://ibruce.info/2015/04/04/busuanzi/</a></h1><p>busuanzi_count:</p><h1 id="count-values-only-if-the-other-configs-are-false"><a href="#count-values-only-if-the-other-configs-are-false" class="headerlink" title="count values only if the other configs are false"></a>count values only if the other configs are false</h1><p>  enable: true</p><h1 id="custom-uv-span-for-the-whole-site"><a href="#custom-uv-span-for-the-whole-site" class="headerlink" title="custom uv span for the whole site"></a>custom uv span for the whole site</h1><p>  site_uv: true<br>  site_uv_header: <i class="fa fa-user"></i> 访问人数<br>  site_uv_footer: 人</p><h1 id="custom-pv-span-for-the-whole-site"><a href="#custom-pv-span-for-the-whole-site" class="headerlink" title="custom pv span for the whole site"></a>custom pv span for the whole site</h1><p>  site_pv: true<br>  site_pv_header: <i class="fa fa-eye"></i> 总访问量<br>  site_pv_footer: 次</p><h1 id="custom-pv-span-for-one-page-only"><a href="#custom-pv-span-for-one-page-only" class="headerlink" title="custom pv span for one page only"></a>custom pv span for one page only</h1><p>  page_pv: true<br>  page_pv_header: <i class="fa fa-file-o"></i> 阅读数<br>  page_pv_footer:</p><p>相关操作： </p><ol><li>enable: true </li><li>添加相关中文说明，不添加也行。</li></ol>]]></content>
       
       
@@ -22,8 +22,8 @@
     
     <entry>
       <title>第一篇自己的博客</title>
-      <link href="/Shary-blog/2018/05/24/%E5%85%B3%E4%BA%8E%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-      <url>/Shary-blog/2018/05/24/%E5%85%B3%E4%BA%8E%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+      <link href="/2018/05/24/%E5%85%B3%E4%BA%8E%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+      <url>/2018/05/24/%E5%85%B3%E4%BA%8E%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
       <content type="html"><![CDATA[<a id="more"></a><h2 id="博客篇"><a href="#博客篇" class="headerlink" title="博客篇"></a>博客篇</h2><p>开篇讲讲这个博客：</p><pre><code>最早接触到技术博客，可能是来源于Randy Lu（卢涛南）（www.lutaonan.com）的技术博客。从2015年到2018，经历了博客的迁移。坚持做独立博客很难，坚持写博客更难。从决定开始学习搭建自己的博客到建成，也不过1天的时间。假如三年前直接决定搭建一个个人博客，也许也没有那么复杂。所以一旦喜欢做的事要积极去准备，尽早去做。</code></pre><p>为什么要写独立博客？<br>    现在身在一所普通二本院校，计算机专业，已经大三末尾，但感觉自己现在还是什么都不会。大一整天忙于各种事情，自己又是个懒惰的人，学过很多语言，工具，框架，但都是浅尝辄止，而又没有更多的时间来学习。  到现在终于有一点点的时间了，重新审视一下自己，专业知识学的并不怎么样，项目经验没有，东西学的嘈杂，而又不会善始善终，开始喜欢上Python，但又无从下手。</p><pre><code>可能是因为一些事更加坚定了我写博客想法，并且尽量写一些高质量的博客。 刚开始是在做某些东西或者当自己做的项目出错时，去网上搜解决方案，搜到一些人的博客，先是CSDN，博客园的，再到github,stackoverflow，V2EX.然后都引流到他们的个人博客，在他们的个人博客里，他们记录了他们曾经走过的路，是如何考研，做项目，学习算法，如何读书，如何思考，如何去准备面试，如何进入谷歌，facebook，微软这样的公司实习或工作。有初中就开始的做的，也有大三才开始的，但他们对此有相同的态度，通过坚持，都有了自己的收获。他们曾经都有过像我此刻的迷茫，但他们最终都靠自己的努力实现了逆袭。 有幸在我迷茫未来，苦苦寻求的时候，读到了他们这些文字。让我看到了方向，我也想建立一个自己的博客，我也要通过努力来实现自己的梦想，不再日复一日地去浪费时间。 在本文的最后，我会贴出自己收藏的一些博客。</code></pre><h2 id="经历篇"><a href="#经历篇" class="headerlink" title="经历篇"></a>经历篇</h2><p>   #2015<br>    2015年，大一入学。开始接触C，C++两门语言，算是给自己的编程之路打了个基础。最初接触代码，有些好奇，也有些兴趣。再往后经历几个月，甚至是往后再经历几门语言以后，觉得难道各类语言只是简单的用一些学到的语法去解几个数学题，进行一些简单计算。连代码都变得越来越乏味，甚至觉得学这些东西根本无用。</p><p>   #2016<br>    2016年，进入大二，进一步学习了java，php,js。各种数据库，oracle，mysql,SQL Server。开始接触一些小的完整的项目。参加过一些软件设计的比赛，最终不了了之。不过还好，这一年，接触到了Python。并且疯狂爱上了这门语言。强大的库支持，优美的结构，简洁的代码，更让我这么一个懒散的人着迷。</p><p>   #2017<br>    2017年，这一年步入大三。接触到了更多的技术。如版本控制的Git、SVN，node.js,Ruby语言、Go语言、R语言。Python也逐步进阶，从做爬虫开始转向Python全栈开发。这一年一直在思考自己要做哪一行。迷茫的一年。</p><p>   #2018<br>    2018年才拿出了自己的四级证。转眼大三面临结束。与惠普合作的企业课逐渐植入。与企业老师沟通，更多的是告知大数据与人工智能逐渐兴起并占据一席之地。而我又重新在java与python之间陷入了迷茫。</p><pre><code>直到写完这篇博客，我还是不想放弃我的Python。所以还是决定搏一搏吧。 最近也是逐渐对GitHub更加着迷。顺手科普一下：知乎上看到一个网友提了一个关于GitHub的问题，得到了一个神一般存在的有趣回答。GitHub 是怎样的一个存在？1.求职时候发现有些公司要附GitHub帐号；2.自己竟然没听说过；3.怎样用好GitHub，他可以帮我做什么；Johnny Wu 神一般的回答到：1.求职时候发现有些公司要附Github帐号3.怎样用好Github，他可以帮我做什么。GitHub——全球最大同性交友网站（来自知乎有趣的回答）</code></pre><h2 id="一些忠告"><a href="#一些忠告" class="headerlink" title="一些忠告"></a>一些忠告</h2><pre><code>引用Randy的一段话回答一下刚开始的迷惑。“但是当你开始接触（我所在的）大学的计算机相关课程，你会发现，所谓的编程学习，无非是老师教一章内容，要求你用学到的语法去解一些数学题。于是很多人选择放弃，认为编程乏味无趣，用很长的课时学习，却只能写出简单的四则运算，或者解数学题。然而这并非编程的全部，因为这恰恰能生动地表明编程语言只不过是一种工具，你可以用它来解数学题，也能做其它更有趣、更实用的程序。在（我所在的）大学，计算机相关课程教 C/C++。有一次，一位大三的朋友问我说，『我学 C 学了一段时间，为什么我还是感觉很没用？』我是这样回答他的：你学 C 学了一段时间感觉没有用处并非你个人的问题，我无法跟你解释为什么，不过我可以告诉你的是，Linus Torvalds 用 C 写了 Linux 和 Git; Antirez 用 C 写了数据库 Redis. 你可能连 Git 是什么都不知道，如何用 C 写出这种水平的程序呢？所以，当你学习 C/C++ 基础后进入困惑期时，不要因为用它写不出实用的程序而止步不前，而应该开始接触其它的编程语言。当你所学和所做的东西越来越多的时候，你慢慢就会发现，编程语言只不过是一种工具，重要的在于你想做什么，用什么语言合适去做（华软的校内游戏直播网站 SISE Game 就是例子，网站的后端用 Ruby on Rails 写，但实时聊天是用 Node.js (JavaScript) ，因为相对于 Ruby, Node.js 更加适合处理 WebSocket）。 你之所以感觉 C/C++ 没用，是因为你暂时还没有足够的眼界和能力去使用他去进行创造。应该去学什么？我的建议是一门严谨的强类型语言（如 Java）和一门愉快的脚本语言（如 JavaScript, Ruby, Python）。当然了，如果你想学一些能立竿见影的技能，你也可以写写前端（HTML, CSS）。”多访问一些技术论坛，你会发现外面的世界更精彩。 的确是这样，你不要指望你的学校，你的老师能教给你什么，更多的还是靠你自己。</code></pre><p>#最后</p><pre><code>第一篇博客结束了，希望各位能在有限的时间里，开发自己的兴趣，有喜欢的事情积极去做。希望各位能在自己喜欢的路上走下去，也希望各位有兴趣的不要因为目前的迷茫放弃自己的IT之路。“你之所以感觉 C/C++ 没用，是因为你暂时还没有足够的眼界和能力去使用他去进行创造。”『你会编程。他们不会。这真他妈的酷。』</code></pre><p>如果你有一些疑问，或者一些想法，可以跟我联系。<br>    E-mail：<a href="mailto:Shary_leey@outlook.com" target="_blank" rel="noopener">Shary_leey@outlook.com</a><br>    Q：839943172<br>    Github：<a href="https://github.com/Moingpony/Shary-s-Blog" target="_blank" rel="noopener">https://github.com/Moingpony/Shary-s-Blog</a></p>]]></content>
       
       
@@ -37,8 +37,8 @@
     
     <entry>
       <title>博客搭建成功</title>
-      <link href="/Shary-blog/2018/05/24/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%88%90%E5%8A%9F/"/>
-      <url>/Shary-blog/2018/05/24/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%88%90%E5%8A%9F/</url>
+      <link href="/2018/05/24/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%88%90%E5%8A%9F/"/>
+      <url>/2018/05/24/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%88%90%E5%8A%9F/</url>
       <content type="html"><![CDATA[<p>2018/5/24<br>创建了第一个个人博客并且部署到了github.</p>]]></content>
       
       
@@ -46,8 +46,8 @@
     
     <entry>
       <title>最近一次部署到Github的错误问题以及解决方案</title>
-      <link href="/Shary-blog/2018/05/24/%E5%86%99%E4%B8%80%E7%AF%87%E5%85%B3%E4%BA%8E%E6%9C%80%E8%BF%91%E4%B8%80%E6%AC%A1%E9%83%A8%E7%BD%B2%E9%94%99%E8%AF%AF%E7%9A%84%E9%97%AE%E9%A2%98/"/>
-      <url>/Shary-blog/2018/05/24/%E5%86%99%E4%B8%80%E7%AF%87%E5%85%B3%E4%BA%8E%E6%9C%80%E8%BF%91%E4%B8%80%E6%AC%A1%E9%83%A8%E7%BD%B2%E9%94%99%E8%AF%AF%E7%9A%84%E9%97%AE%E9%A2%98/</url>
+      <link href="/2018/05/24/%E5%86%99%E4%B8%80%E7%AF%87%E5%85%B3%E4%BA%8E%E6%9C%80%E8%BF%91%E4%B8%80%E6%AC%A1%E9%83%A8%E7%BD%B2%E9%94%99%E8%AF%AF%E7%9A%84%E9%97%AE%E9%A2%98/"/>
+      <url>/2018/05/24/%E5%86%99%E4%B8%80%E7%AF%87%E5%85%B3%E4%BA%8E%E6%9C%80%E8%BF%91%E4%B8%80%E6%AC%A1%E9%83%A8%E7%BD%B2%E9%94%99%E8%AF%AF%E7%9A%84%E9%97%AE%E9%A2%98/</url>
       <content type="html"><![CDATA[<p>##第一个问题<br>    1 file changed, 1 insertion(+), 1 deletion(-)<br>    fatal: unable to access ‘<a href="https://github.com/Moingpony/Shary-blog.git/&#39;" target="_blank" rel="noopener">https://github.com/Moingpony/Shary-blog.git/&#39;</a>: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to github.com:443<br>    FATAL Something’s wrong. Maybe you can find the solution here: <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">http://hexo.io/docs/troubleshooting.html</a><br>    Error: fatal: unable to access ‘<a href="https://github.com/Moingpony/Shary-blog.git/&#39;" target="_blank" rel="noopener">https://github.com/Moingpony/Shary-blog.git/&#39;</a>: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to github.com:443</p><pre><code>    at ChildProcess.&lt;anonymous&gt; (D:\hexo\blog\node_modules\_hexo-util@0.6.3@hexo-util\lib\spawn.js:37:17)    at emitTwo (events.js:126:13)    at ChildProcess.emit (events.js:214:7)    at ChildProcess.cp.emit (D:\hexo\blog\node_modules\_cross-spawn@4.0.2@cross-spawn\lib\enoent.js:40:29)    at maybeClose (internal/child_process.js:925:16)    at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)##解决方案在github项目在本地的根目录下打开git命令行， 执行下面的命令：git config --global --unset http.proxy</code></pre><p>##第二个问题</p><pre><code>On branch masternothing to commit, working tree cleanfatal: TaskCanceledException encountered.▒▒ȡ▒▒һ▒▒▒▒▒▒bash: /dev/tty: No such device or addressINFO  Have a nice day##解决方案    关闭本地服务    关闭本地调试的博客（localhost）</code></pre>]]></content>
       
       
